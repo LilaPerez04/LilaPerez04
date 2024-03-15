@@ -10,5 +10,5 @@ He trabajado en pruebas para aplicaciones web, móviles y API, además de bases 
 
 #### Dónde me puedes encontrar
 
-- [Correo](mailto:liliana.perezh.05@gmail.com)
-- [LinkedIn])(https://www.linkedin.com/in/LilianaPH)
+- [Correo](liliana.perezh.05@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/LilianaPH)
